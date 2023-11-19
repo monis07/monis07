@@ -56,16 +56,6 @@ Eager to contribute my skills to innovative projects and collaborate with like-m
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=monis07&&style=flat-square" align="center" />
 </div>  
