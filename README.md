@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hey there!👋 I am an aspiring MERN stack developer and B.Tech final year student from Chandigarh Group Of Colleges, Landran. Currently exploring the dynamic world of full-stack development. My focus is on acquiring proficiency in both front-end and back-end technologies. <br><br>Eager to contribute my skills to innovative projects and collaborate with like-minded professionals.🌟💻
 
 
