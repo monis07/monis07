@@ -1,7 +1,7 @@
 
 ## Intro  
 <div align="center">
-<img src="https://www.canva.com/design/DAF0nLCiAog/1_ORU_zO0TcW7PNN5yrBag/edit?utm_content=DAF0nLCiAog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="center" style="width: 100%" />
+<img src="https://www.canva.com/design/DAF0nLCiAog/1_ORU_zO0TcW7PNN5yrBag/edit?utm_content=DAF0nLCiAog&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="center" style="width: 100" />
 </div>  
   
 
