@@ -1,10 +1,5 @@
 
 ## Intro  
-<div align="center">
-<img src="https://www.canva.com/design/DAF0nLCiAog/FfX-Xl8kUO2cJB0x6zA4dw/view?utm_content=DAF0nLCiAog&utm_campaign=designshare&utm_medium=link&utm_source=editor" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi there ! I'm Monis Azeem, an aspiring MERN stack developer👨‍💻🚀</div>  
   
 
