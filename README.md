@@ -1,13 +1,13 @@
-Hey there!👋 I am an aspiring MERN stack developer and B.Tech final year student from Chandigarh Group Of Colleges, Landran. Currently exploring the dynamic world of full-stack development. My focus is on acquiring proficiency in both front-end and back-end technologies. 
+Hey there!👋 I am an aspiring full stack developer currently exploring the dynamic world of full-stack development. My focus is on acquiring proficiency in both front-end and back-end technologies. 
 
-🌟 Frontend : Typescript, React.js, Framer, Sass, MUI, JavaScript, CSS3, HTML5
+🌟 Frontend : Typescript, React.js, Framer-motion, SASS, MUI, JavaScript, CSS3, HTML5
 
 🌟 Backend : Typescript, Node.js, Express.js, MongoDB, Sanity CMS
 
-🌟 Other Languages known : Java
+🌟 Database Management Software : MongoDB
 
-🌟 Tools: Git/GitHub, Postman, MongoDB Compass
+🌟 Familiar With: C, C++, Java, Vite, OOP’s, SQL, DSA in Java, AWS, GitHub Actions, GitHub CI/CD
 
-🌟 Familiar with : OOP's, Data Structures and Algorithms in Java
+🌟 Developer Tools: Git/GitHub, VS Code, Postman API, MongoDB Compass
 
 Eager to contribute my skills to innovative projects and collaborate with like-minded professionals.🌟💻
