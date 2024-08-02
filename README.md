@@ -1,4 +1,4 @@
-I am currently building [stroke.ai](https://stroke-ai.framer.website/). An AI assistant for browser. (Repo is private for now)
+I am currently building [stroke.ai](https://stroke-ai.framer.website/). An AI assistant for browser. (Repo is private for now)<br/>
 
 Currently learning and building applications using Next.js, TypeScript, Express and MongoDB.
 Some projects i loved building:
