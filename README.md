@@ -1,9 +1,9 @@
 I am currently building [stroke.ai](https://stroke-ai.framer.website/). An AI assistant for browser. (Repo is private for now)<br/>
 
-Currently learning and building applications using Next.js, TypeScript, Express and MongoDB.
-Some projects i loved building:
-[LogicLoom](https://github.com/monis07/logicloom)
-[React from Scratch](https://github.com/monis07/my-own-react)
+Currently learning and building applications using Next.js, TypeScript, Express and MongoDB.<br/>
+Some projects i loved building:<br/>
+[LogicLoom](https://github.com/monis07/logicloom)<br/>
+[React from Scratch](https://github.com/monis07/my-own-react)<br/>
 
 This is my [LinkedIn](https://www.linkedin.com/in/monisazeem) and [X](https://x.com/MonisAzeem)
 
