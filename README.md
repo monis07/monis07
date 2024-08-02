@@ -1,13 +1,10 @@
-Hey there!👋 I am an aspiring full stack developer currently exploring the dynamic world of full-stack development. My focus is on acquiring proficiency in both front-end and back-end technologies. 
+I am currently building [stroke.ai](https://stroke-ai.framer.website/). An AI assistant for browser. (Repo is private for now)
 
-🌟 Frontend : Typescript, React.js, Framer-motion, SASS, MUI, JavaScript, CSS3, HTML5
+Currently learning and building applications using Next.js, TypeScript, Express and MongoDB.
+Some projects i loved building:
+[LogicLoom](https://github.com/monis07/logicloom)
+[React from Scratch](https://github.com/monis07/my-own-react)
 
-🌟 Backend : Typescript, Node.js, Express.js, MongoDB, Sanity CMS
+This is my [LinkedIn](https://www.linkedin.com/in/monisazeem) and [X](https://x.com/MonisAzeem)
 
-🌟 Database Management Software : MongoDB
-
-🌟 Familiar With: C, C++, Java, Vite, OOP’s, SQL, DSA in Java, AWS, GitHub Actions, GitHub CI/CD
-
-🌟 Developer Tools: Git/GitHub, VS Code, Postman API, MongoDB Compass
-
-Eager to contribute my skills to innovative projects and collaborate with like-minded professionals.🌟💻
+<!--![Monis GitHub stats](https://github-readme-stats.vercel.app/api?username=monis07&theme=great-gatsby&show_icons=true&count_private=true)-->
