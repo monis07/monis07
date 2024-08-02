@@ -9,7 +9,7 @@ This is my [LinkedIn](https://www.linkedin.com/in/monisazeem) and [X](https://x.
 
 <!--![Monis GitHub stats](https://github-readme-stats.vercel.app/api?username=monis07&theme=great-gatsby&show_icons=true&count_private=true)-->
 
-<!--Languages i usually code in:<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monis07)](https://github.com/monis07/github-readme-stats)-->
+<!--Languages i usually code in:<br/>-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monis07)](https://github.com/monis07/github-readme-stats)-->
 
 
