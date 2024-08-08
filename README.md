@@ -7,6 +7,8 @@ Some projects i loved building:<br/>
 
 This is my [LinkedIn](https://www.linkedin.com/in/monisazeem) and [X](https://x.com/MonisAzeem)<br/>
 
+![](https://komarev.com/ghpvc/?username=monis07&style=plastic)
+
 <!--![Monis GitHub stats](https://github-readme-stats.vercel.app/api?username=monis07&theme=great-gatsby&show_icons=true&count_private=true)-->
 
 <!--Languages i usually code in:<br/>-->
