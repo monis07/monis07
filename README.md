@@ -1,9 +1,6 @@
 I am currently building [browzerai](https://www.browzerai.com/). An AI assistant for browser.<br/>
 
 Also currently learning and building applications using Next.js, TypeScript, Express and MongoDB.<br/><br/>
-Some projects i loved building:<br/>
-[LogicLoom](https://github.com/monis07/logicloom)<br/>
-[React from Scratch](https://github.com/monis07/my-own-react)<br/>
 
 This is my [LinkedIn](https://www.linkedin.com/in/monisazeem) and [X](https://x.com/MonisAzeem)<br/>
 
